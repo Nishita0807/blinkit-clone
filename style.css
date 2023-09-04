@@ -163,7 +163,10 @@ footer>.footer{
 }
 
 
-
+.btn.btn-outline-success.px-4 {
+    color: black;
+    background-color: #f5fff7ff;
+}
 
 
 @media screen and (max-width:768px){
